@@ -1,0 +1,8 @@
+Word Count:                           ,500
+Create Dictionary Time:               ,6ms -> 0.006 seconds
+Load Input Text Time:                 ,18ms -> 0.018 seconds
+Create HashMap Time:                  ,1ms -> 0.001 seconds
+Load MinHeap Time:                    ,3ms -> 0.003 seconds
+Write Frequency Text File Time:       ,11ms -> 0.011 seconds
+Write Repeated Text File Time:        ,11ms -> 0.011 seconds
+Total Execution Time:                 ,50ms -> 0.05 seconds
